@@ -1,0 +1,29 @@
+{
+
+  "tareas": [
+    {
+      "titulo": "Tarea 1",
+      "responsable": "Jonathan",
+      "descripcion": "Examen de Algebra",
+      "prioridad": "baja"
+    },
+    {
+      "titulo": "Tarea 2",
+      "responsable": "Elier",
+      "descripcion": "Metodos",
+      "prioridad": "media"
+    },
+    {
+      "titulo": "Tarea 3",
+      "responsable": "Josue",
+      "descripcion": "Metodos app",
+      "prioridad": "alta"
+    },
+    {
+      "titulo": "Tarea 4",
+      "responsable": "Josue",
+      "descripcion": "React",
+      "prioridad": "alta"
+    }
+  ]
+}
